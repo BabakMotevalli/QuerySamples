@@ -1,5 +1,6 @@
 select 
 
+
 GETDATE() as DelamMikhadDate,
 product.[Name],
 product.Price as RealPrice,
